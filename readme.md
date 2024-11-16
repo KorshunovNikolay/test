@@ -1,5 +1,7 @@
-# Hellio, World!
-
-I study in Netology
-
-16.11.2024
+# NeuroStartUp
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+*NeuroStartUp* - динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
+Наши Преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
